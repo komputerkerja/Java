@@ -1,0 +1,2 @@
+ini adalah file input.txt
+seperti biasa nya

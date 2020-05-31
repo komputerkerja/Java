@@ -1,0 +1,3 @@
+ini adalah data.txt
+berada dalam project
+yang sedang di jalankan
